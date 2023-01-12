@@ -1,2 +1,2 @@
 # .github
-Community health files for the @Hype
+Community health files for @Hype
